@@ -1,0 +1,45 @@
+{
+  "tasks": [
+    {
+      "id": "seed-1",
+      "userId": "demo-user",
+      "title": "Design homepage wireframe",
+      "description": "Create first draft for SaaS landing page with dark mode variants.",
+      "priority": "High",
+      "dueDate": "2026-06-05",
+      "status": "In Progress",
+      "createdAt": "2026-05-27T11:00:00.000Z"
+    },
+    {
+      "id": "seed-2",
+      "userId": "demo-user",
+      "title": "Write API integration tests",
+      "description": "Add test coverage for tasks service endpoints.",
+      "priority": "Medium",
+      "dueDate": "2026-06-10",
+      "status": "Pending",
+      "createdAt": "2026-05-26T09:30:00.000Z"
+    },
+    {
+      "title": "Coding",
+      "description": "Learn dsa patterns",
+      "priority": "Medium",
+      "dueDate": "2026-06-10",
+      "status": "Completed",
+      "userId": "16fc8d11-bf34-444c-ae16-139e5260cdf8",
+      "createdAt": "2026-05-28T16:06:37.148Z",
+      "id": "Ir0ttR4yrDU"
+    },
+    {
+      "title": "coding",
+      "description": "learn dsa",
+      "priority": "High",
+      "dueDate": "2026-05-30",
+      "status": "Completed",
+      "userId": "54c88b31-1707-4b14-82e3-dfe7bd2f807d",
+      "createdAt": "2026-05-29T12:51:58.704Z",
+      "id": "5TkZw9Z_64M"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
